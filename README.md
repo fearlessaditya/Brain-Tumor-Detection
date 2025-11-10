@@ -9,7 +9,7 @@ This repository contains the full pipeline: data preprocessing, model training, 
 - **model/** — folder containing trained model weights (`.pth` file).
 - **requirements.txt** — Python dependencies.
 
-## Quickstart (Google Colab / Local Machine)
+## Quickstart (Jupyter / Local Machine)
 1. Open `Brain_tumor_training.ipynb` or `Brain_tumor_GUI.ipynb` in Jupyter.
 2. Install dependencies:
 3. Run training notebook (optional).  
