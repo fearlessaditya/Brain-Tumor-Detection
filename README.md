@@ -1,4 +1,4 @@
-# Brain Tumor Detection (PyTorch + GUI)
+# Brain Tumor Detection 
 
 CNN-based brain tumor classification system using PyTorch, trained on MRI scans, with a PyQt5 desktop GUI for real-time prediction.  
 This repository contains the full pipeline: data preprocessing, model training, inference, and a GUI demo.
