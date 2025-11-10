@@ -3,9 +3,9 @@
 
 This project is a Brain Tumor Detection System built using PyTorch and a PyQt5 GUI.  
 It classifies MRI brain images into tumor categories and provides an easy desktop interface for prediction.
-## 📌 Features
+##  Features
 
-### 🔍 Model Features
+###  Model Features
 - Trained on MRI brain tumor dataset.
 - Uses PyTorch with a CNN / Transfer Learning model.
 - Supports tumor categories such as:
@@ -19,14 +19,14 @@ It classifies MRI brain images into tumor categories and provides an easy deskto
   - Early stopping
   - Model evaluation (accuracy, loss)
 
-### 🖥️ GUI Features
+###  GUI Features
 - Built using PyQt5.
 - Load MRI images directly (.jpg, .png).
 - Shows:
   - Image preview
   - Predicted tumor type
 - Easy “Load Image” and “Predict” buttons.
-## 🗂️ Project Structure
+##  Project Structure
 
 Brain-Tumor-Detection/
 │
